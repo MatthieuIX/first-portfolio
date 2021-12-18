@@ -1,0 +1,136 @@
+/*GENERAL*/
+
+/*HEADER*/
+
+header a {
+    color: #fc6895 !important;
+    font-family: 'Roboto', sans-serif;
+}
+
+header a:hover {
+    color: #7c79c6 !important;
+}
+
+/*JUMBOTRON*/
+
+#jumbotron h1 {
+    color: #fc6895 !important;
+    margin-bottom: 30px;
+    font-family: 'Pacifico', cursive;
+}
+
+#jumbotron {
+    font-family: 'Roboto', sans-serif;
+}
+
+#jumbotron .jumbotron a {
+    color: #fff;
+    background: #7c79c6;
+    border: 1px solid #7c79c6;
+}
+
+#jumbotron .jumbotron a:hover {
+    color: #fff;
+    background: #fc6895;
+    border: 1px solid #fc6895;
+}
+
+/*QUOTE*/
+
+#quote .quote h1 {
+    margin: 40px 0px 40px 0px;
+    text-align: center;
+    font-family: 'Pacifico', cursive;
+    color: #53c4f6;
+}
+
+#quote .quote .divider {
+    border-top: 1px solid #fc6895;
+    width: 30%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+/*CARD*/
+
+#card .divider {
+    color: #fff;
+    margin: 10px;
+    border: 1px solid #fc6895;
+}
+#card .container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-family: 'Roboto', sans-serif;
+}
+
+#card .container .card{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#card a {
+    color: #fff;
+    background: #7c79c6;
+    border: 1px solid #7c79c6;
+}
+
+#card a:hover {
+    color: #fff;
+    background: #fc6895;
+    border: 1px solid #fc6895;
+}
+
+/*FORM*/
+
+#form {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#form .divider {
+    border-top: 1px solid #fc6895;
+    width: 30%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#form button {
+    color: #fff;
+    background: #7c79c6;
+    border: 1px solid #7c79c6;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+#form button:hover {
+    color: #fff;
+    background: #fc6895;
+    border: 1px solid #fc6895;
+}
+
+/*FOOTER*/
+
+footer {
+    margin-top: 40px;
+    background-color: grey;
+    height: 25px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+footer .copyrights {
+    display: flex;
+    justify-content: space-around;
+    color: #fff;
+
+}
